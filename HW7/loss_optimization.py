@@ -389,3 +389,4 @@ if __name__ == '__main__':
 # print("Test Accuracy (Gradient Descent):", test_accuracy_gd)
 # print("Test Accuracy (Stochastic Gradient Descent):", test_accuracy_sgd)
 # print("Test Accuracy (AdaGrad):", test_accuracy_adagrad)
+#test
